@@ -59,7 +59,7 @@ public class RobotContainer {
   new JoystickButton(driver, XboxController.Button.kRightBumper.value);
   private final JoystickButton light = 
     new JoystickButton(driver, XboxController.Button.kB.value);
-  private final JoystickButton absolute = g
+  private final JoystickButton absolute = 
     new JoystickButton(driver, XboxController.Button.kA.value);
   private final JoystickButton halfSpeed = 
     new JoystickButton(driver, XboxController.Button.kLeftBumper.value);
